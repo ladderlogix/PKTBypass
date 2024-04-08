@@ -1,3 +1,4 @@
+ [![HitCount](https://hits.dwyl.com/sglombicki/PKTBypass.svg?style=flat-square)](http://hits.dwyl.com/sglombicki/PKTBypass)
 # PKTBypass
 This bypass the password on packet tracer quiz files
 
