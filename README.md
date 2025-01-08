@@ -1,6 +1,6 @@
  [![HitCount](https://hits.dwyl.com/sglombicki/PKTBypass.svg?style=flat-square)](http://hits.dwyl.com/sglombicki/PKTBypass)
-# PKTBypass
-This bypass the password on packet tracer quiz files
+# Packet Tracer Activity Password Bypass
+This bypass the password on packet tracer quiz files. This Can be used to recover cisco packet tracer file passwords.
 
 ## How I found it
 Searching for the string "Please enter your password:". I notice a jz right before it. I patch this in ghidra to a jmp
