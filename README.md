@@ -1,4 +1,4 @@
- [![HitCount](https://hits.dwyl.com/sglombicki/PKTBypass.svg?style=flat-square)](http://hits.dwyl.com/sglombicki/PKTBypass)
+ [![HitCount](https://hits.dwyl.com/sglombicki/Cisco-Packet-Tracer-Password-Bypass.svg?style=flat-square)](http://hits.dwyl.com/sglombicki/Cisco-Packet-Tracer-Password-Bypass)
 # Packet Tracer Activity Password Bypass
 This bypass the password on packet tracer quiz files. This Can be used to recover cisco packet tracer file passwords.
 
